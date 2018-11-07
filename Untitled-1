@@ -1,6 +1,0 @@
-p {
-    font-size: 25px;
-    color: #333333;
-    font-family: Raleway;
-    padding: 10px;
-}
